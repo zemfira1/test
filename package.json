@@ -1,11 +1,11 @@
 {
-  "name": "bookshelf-project-team-4",
+  "name": "test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://zemfira1.github.io/bookshelf-project-team-4",
+  "homepage": "https://zemfira1.github.io/test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /bookshelf-project-team-4/"
+    "build": "parcel build src/*.html --public-url /test/"
   },
   "repository": {
     "type": "git",
